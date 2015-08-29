@@ -1,0 +1,33 @@
+<root>
+  <styles>
+    <include src="s2r://panorama/styles/dotastyles.vcss_c" />
+    <include src="file://{resources}/styles/custom_game/tron_ui/root.css"/>
+  </styles>
+  <scripts>
+    <include src="file://{resources}/scripts/custom_game/tron_ui/root.js" /> 
+  </scripts>
+  <Panel hittest="false" class="Root">
+	<Panel id="RacerPanel">
+		<Image id="RacerImage" src="file://{images}/custom_game/tron_ui/runningBackground.png" />
+	</Panel>
+	
+	<Panel id="GameplayBars">
+	
+		<Panel id="GameplayTop">
+			<Panel id="ItemBar">
+			</Panel>
+		</Panel>
+		
+		<Panel id="GameplayBottom">
+			<Panel id="StatBars">
+			
+			</Panel>
+			
+			<Panel id="AbilBars">
+			
+			</Panel>
+		</Panel>
+		
+	</Panel>
+  </Panel>
+</root>
