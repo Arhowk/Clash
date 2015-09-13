@@ -1,0 +1,52 @@
+Addl. Items-
+Fuel cell - addl. accel 
+Engine Modulators - magical properties
+Hull Aditions- converts pieces to plastic decreasing weight
+
+
+
+Item Type-
+Boosters - determine nitrous
+Engine - determine acceleration
+Wings - determine maneuverability
+Hull - determines health
+Hood - determines strength
+Rider - determines special ability(ies)
+Gadget - determines ship ability
+
+Gadget Abilities-
+Jump - Jumps above the ground for 0.5sec
+Nitrous - temporary accel boost
+Bolster- shield that reflects damage
+
+Stats-
+Strength - damage dealt
+Health - damage able to be taken
+Acceleration - force to move
+Speed - 
+
+Heroes-
+Shadowsong - no abilities
+
+Shared Abilities-
+Shift - Phase shift, for 0.75sec (cd 4sec) become invulnerable to enemies not in phase shift
+
+Gameplay-
+CTF. Holding the flag reduces str/spd by 33%, doesnt reveal location
+
+Fighting-
+when two heroes collide, they will deal (strength * speed) to eachother
+other abilities can effect this
+
+Level Layout-
+Corners - bases.
+Mid base is a flag.
+Middle map is a hill that grants vision in certain locations
+
+Boosts-
+Superspeed - Temporarily sets your velocity to 100% ma
+Divine Shield
+UAV 
+Infuse (red/green/blue) - temporay str/spd/hel boost
+Team Infuse
+
